@@ -1,0 +1,35 @@
+# Кэш и скомпилированные файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Виртуальные окружения
+venv/
+.venv/
+env/
+
+# Локальные секреты и переопределения конфигурации
+.env
+.env.*
+config.local.py
+
+# Настройки редакторов и IDE (VS Code, PyCharm и др.)
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Системные файлы ОС
+.DS_Store
+Thumbs.db
+
+# Логи, временные файлы и случайные бэкапы
+*.log
+*.sql
+*.sql.gz
+backups/
+*.desktop
+
+!.env.example

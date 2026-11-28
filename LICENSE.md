@@ -6,6 +6,7 @@
 
 Copyright (c) 2026 Andrey Aleksandrovich Mazo (Мазо Андрей Александрович)
 
+
 ## License Summary & Terms
 
 This software is licensed under the **PolyForm Noncommercial License 1.0.0**.  

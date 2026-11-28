@@ -103,23 +103,21 @@
 ```
 При следующем запуске приложения новая вкладка со всеми кнопками аналитики и деплоя появится автоматически.
 
-## 📄 Лицензия со строкой: Проект распространяется под лицензией MIT. Подробнее см. в файле LICENSE. Автор: Мазо Андрей Александрович.
----
+## 📄 Лицензия и коммерческое использование
 
-## License Summary & Terms
+Проект распространяется под лицензией **[PolyForm Noncommercial License 1.0.0](https://polyformproject.org)**.
 
-This software is licensed under the **PolyForm Noncommercial License 1.0.0**.  
-Full canonical license text: <https://polyformproject.org/licenses/noncommercial/1.0.0>
+* **Автор:** Мазо Андрей Александрович (2026)
+* **Бесплатное использование:** разрешено свободно скачивать, изучать, модифицировать и применять код исключительно в **личных, учебных или некоммерческих целях**.
+* **Полный текст лицензии:** см. в файле [`LICENSE.md`](./LICENSE.md).
 
-* **Permitted Use:** You may use, copy, modify, and distribute this software strictly for **noncommercial purposes** (personal use, education, research, or nonprofit organizations).
-* **Commercial Restriction:** Any commercial use, sale, or integration into commercial products and services is prohibited without prior written permission from the licensor.
-* **Attribution:** All copies and derivative works must retain this Required Notice and a link to the license terms.
-* **No Warranty:** The software is provided "as is", without warranty or liability of any kind.
+### 💼 Коммерческая лицензия для бизнеса
 
-### Краткое пояснение на русском языке
+Использование программного обеспечения в коммерческих организациях, внедрение в рабочие процессы компаний или интеграция в платные продукты без письменного разрешения правообладателя **запрещены**.
 
-Программное обеспечение распространяется по лицензии **PolyForm Noncommercial License 1.0.0** (юридическую силу имеет официальный текст на английском языке по ссылке выше).
+Для приобретения коммерческой лицензии, доработки функционала под задачи вашей компании или заключения договора свяжитесь с автором:
 
-* **Разрешено:** бесплатно скачивать, изучать, изменять и распространять код в личных, учебных или некоммерческих целях.
-* **Запрещено:** использовать код в коммерческих продуктах, продавать его или внедрять в бизнес-процессы без письменного разрешения автора.
-* **Обязательное условие:** при копировании или форке необходимо сохранять указание авторства (**Мазо Андрей Александрович**) и ссылку на текст лицензии.
+* **Telegram:** `@AndreyMazo`
+* **Email:** `andreymazo@mail.ru`
+* **LinkedIn:** `https://www.linkedin.com/in/%D0%BC%D0%B0%D0%B7%D0%BE-%D0%B0%D0%BD%D0%B4%D1%80%D0%B5%D0%B9-09040139/`
+
